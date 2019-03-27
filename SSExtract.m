@@ -1,7 +1,3 @@
-% Edrick Ramos
-% CPE 592 - Comp&Multimedia Network Security
-% Professor Chandramouli
-% Midterm #1
 % SSExtract.m
 
 
