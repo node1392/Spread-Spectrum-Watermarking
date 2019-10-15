@@ -1,7 +1,5 @@
 # Spread Spectrum Watermarking (SS) - Code was based on the cox-watermarking repository
 
-Goal: Implement SS with a random additive noise signal of length 1000 as your watermark. Used an image to test the code.
-
 # Observation:
 Spread Spectrum watermarking provides a higher level of strength against steganalysis compared to LSB method.
 It’s robust against noise interference and because it’s spread over a high frequency
